@@ -2,6 +2,8 @@
 
 Backend desarrollado en **Laravel** con arquitectura RESTful para la gestión de inventario, productos y categorías, incluyendo validación de integridad referencial y registro de actividad.
 
+> 🔗 **Repositorio Frontend asociado:** [https://github.com/JOANYA/fulstack-fronted](https://github.com/JOANYA/fulstack-fronted)
+
 ---
 
 ## 🛠️ Tecnologías Utilizadas
@@ -29,8 +31,8 @@ Sigue estos pasos para levantar el proyecto en tu máquina local:
 
 ### 1. Clonar el repositorio
 ```bash
-git clone <URL_DE_TU_REPOSITORIO_BACKEND>
-cd <NOMBRE_DE_LA_CARPETA_BACKEND>
+git clone https://github.com/JOANYA/fullsctack-backend.git
+cd fullsctack-backend
 ```
 
 ### 2. Instalar dependencias de PHP
